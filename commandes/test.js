@@ -1,12 +1,12 @@
 >"use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
-zokou({ nomCom: "test", reaction: "🏎️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "test", reaction: "💫", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = '𝐇𝐞𝐲 𝐓𝐡𝐢𝐬 𝐢𝐬 *Immortal Dragon* \n ' + "𝐓𝐡𝐞 𝐅𝐚𝐬𝐭𝐞𝐬𝐭 𝐖𝐚𝐁𝐨𝐭";
-    let d = '> *By Sir Antony*'
+    let z = '𝐇𝐞𝐲 𝐓𝐡𝐢𝐬 𝐢𝐬 *zombie md* \n ' + "𝐓𝐡𝐞 𝐅𝐚𝐬𝐭𝐞𝐬𝐭 𝐖𝐚𝐁𝐨𝐭";
+    let d = '> *By yessertech*'
     let varmess = z + d;
-    var img = 'https://files.catbox.moe/ok01oz.jpg';
+    var img = 'https://files.catbox.moe/won03k.jpeg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
