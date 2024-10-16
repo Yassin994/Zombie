@@ -19,7 +19,7 @@ const{repondre,ms,dev,superUser}=com;
 
   const {exec}=require("child_process")
 
-    repondre("Immortal Dragon Restarting ⏳");
+    repondre("zombie Restarting ⏳");
 
   exec("pm2 restart all");
   
