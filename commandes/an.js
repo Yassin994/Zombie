@@ -132,8 +132,8 @@ adams({
     const imdbData = response.data;
 
     let imdbInfo = "Tap on the link to join movie channel on telegram and download movies there : https://t.me/ibrahimtechai\n";
-    imdbInfo += " ``` IMMORTAL DRAGON FILMS```\n";
-    imdbInfo += "*Made by Ibrahim Adams*\n";
+    imdbInfo += " ``` zombie hororr FILMS```\n";
+    imdbInfo += "*Made by yessertech*\n";
     imdbInfo += "🎬Title    : " + imdbData.Title + "\n";
     imdbInfo += "📅year      : " + imdbData.Year + "\n";
     imdbInfo += "⭐Assessment : " + imdbData.Rated + "\n";
