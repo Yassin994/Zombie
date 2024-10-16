@@ -3,7 +3,7 @@
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x">
-    <img alt="wasi" height="400" src="https://files.catbox.moe/9pngse.jpg">
+    <img alt="wasi" height="400" src="https://files.catbox.moe/won03k.jpeg">
     <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <h1 align="center">IMMORTAL_DRAGON</h1>
   </a>
