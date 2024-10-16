@@ -1,9 +1,9 @@
 {
-  "name":"Immortal_Dragon",
-  "description":"𝑻𝒉𝒆 𝑭𝒂𝒔𝒕𝒆𝒔𝒕 𝑩𝒐𝒕",
+  "name":"zombies md",
+  "description":"new bot𝒕",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/9pngse.jpg",
-  "repository":"https://github.com/botdep24/Immortal_dragon",
+  "logo":"https://files.catbox.moe/won03k.jpeg",
+  "repository":"https://github.com/Yassin994/zombie",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"Immortal_dragon",
+      "value":"yessertech",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/9pngse.jpg,https://files.catbox.moe/b9qtzn.jpg,https://files.catbox.moe/abd0tu.jpg",
+      "value":"https://files.catbox.moe/won03k.jpeg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Sir Antony "
+    "value": "yessertech "
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255779333974"
+    "value": "255621995482"
   },
     "WARN_COUNT":
   {
