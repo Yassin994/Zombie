@@ -71,14 +71,14 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("IMMORTAL DRAGON") ; return};
+        if(!superUser) { repondre("zombie") ; return};
 
-      await   repondre("*IMMORTAL DRAGON https://whatsapp.com/channel/0029VafUHT42ER6oexvmGT3p");
-         repondre("IMMORTAL DRAGON is alive just live you bruv. 𝑻𝒚𝒑𝒆 .𝒎𝒆𝒏𝒖 𝒕𝒐 𝒖𝒔𝒆 𝒎𝒆.")
+      await   repondre("*yessertech https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30");
+         repondre("zombie md is alive what do you looking for. 𝑻𝒚𝒑𝒆 .𝒎𝒆𝒏𝒖 𝒕𝒐 𝒖𝒔𝒆 𝒎𝒆.")
      }
  } else {
 
-    if(!superUser) { repondre ("IMMORTAL DRAGON ") ; return};
+    if(!superUser) { repondre ("zombie site ") ; return};
 
   
     const texte = arg.join(' ').split(';')[0];
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' https://whatsapp.com/channel/0029VafUHT42ER6oexvmGT3p. ')
+repondre(' https://whatsapp.com/channel/0029VakA1mu35fM18opH1s30 ')
 
 }
     });
