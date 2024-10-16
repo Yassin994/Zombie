@@ -22,7 +22,7 @@ zokou({ nomCom: "tiara", categorie: "Menu" }, async (dest, zk, commandeOptions) 
     const date = moment.tz("Africa/Nairobi").format("DD/MM/YYYY");
     console.log("date" + date);
     console.log("temps " + temps);
-    let menuMsg = "  ═══ *Immortal Dragon* ═══\n\n";
+    let menuMsg = "  ═══ *zombie* ═══\n\n";
     /*menuMsg+=`
     
     
@@ -69,7 +69,7 @@ zokou({ nomCom: "tiara", categorie: "Menu" }, async (dest, zk, commandeOptions) 
     }
     var link = "https://telegra.ph/file/b9282142f3318354af3c9.mp4";
     try {
-        zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©𝑩𝑼𝑮𝑨𝑻𝑻𝑰" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: link }, caption: menuMsg, footer: "©zombie" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
