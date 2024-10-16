@@ -37,7 +37,7 @@ const date = moment().format('DD/MM/YYYY');
 ┃๏│▸ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : 𝗖𝗵𝗿𝗼𝗺𝗲 𝗟𝗶𝗻𝘂𝘅
 ┃๏└───────────···▸
 ╰──────────────┈⊷\n${readmore}`;
-    let menuMsg = `Immortal Dragon Plugins
+    let menuMsg = `zombies deadline
 `;
     for (const cat in coms) {
         menuMsg += `
